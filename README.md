@@ -1,6 +1,6 @@
 <h1> Webflux </h1>
 
-Creating a Rest API using Spring Webflux and MongoDB to store names of playlists. 
+Creating a Rest API using Spring Webflux and MongoDB to store names of playlists. :musical_score:
 
 
 <h2> :musical_note: Features </h2>
@@ -17,4 +17,4 @@ Creating a Rest API using Spring Webflux and MongoDB to store names of playlists
   <li>MongoDB</li>  
 </ul>
 
-<h2> :musical_score: Result </h2>
+
